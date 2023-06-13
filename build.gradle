@@ -23,10 +23,10 @@ repositories {
 }
 
 azurefunctions {
-    resourceGroup = 'java-functions-group'
-    appName = 'java_function-1686577581300'
+    resourceGroup = 'Subhodeep-practice'
+    appName = 'subhodeepjavafunc'
     pricingTier = 'Consumption'
-    region = 'westus'
+    region = 'ukwest'
     runtime {
       os = 'windows'
       javaVersion = '17'
